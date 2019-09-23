@@ -1,0 +1,60 @@
+[{
+	"id": 1,
+	"nome": "Nome do Persona 1",
+	"idade": 15,
+	"sexo": "Masculino",
+	"endereco": {
+		"cidade": "São Paulo",
+		"UF": "SP",
+		"bairro": "centro"
+	},
+	"contato": {
+		"email": "persona@email.com.br",
+		"github": "persona.sobrenome",
+		"twitter": "@persona.sobrenome",
+		"celular": "+5511999998888"
+	},
+	"profissao": "trabalhador",
+	"tipoSangue": "O+",
+	"hobbie": ["rpg", "livros", "filmes", "series"]
+ },
+ {
+	"id": 2,
+	"nome": "Nome do Persona 2",
+	"idade": 25,
+	"sexo": "Feminino",
+	"endereco": {
+		"cidade": "Guarulhos",
+		"UF": "SP",
+		"bairro": "Vila Endres"
+	},
+	"contato": {
+		"email": "persona2@email.com.br",
+		"github": "persona2.sobrenome",
+		"twitter": "@persona2.sobrenome",
+		"celular": "+5511999997777"
+	},
+	"profissao": "programadora",
+	"tipoSangue": "A+",
+	"hobbie": ["livros", "filmes", "series", "games"]
+ },
+ {
+	"id": 3,
+	"nome": "Nome do Persona 3",
+	"idade": 35,
+	"sexo": "Feminino",
+	"endereco": {
+		"cidade": "Osasco",
+		"UF": "SP",
+		"bairro": "Vila Nove"
+	},
+	"contato": {
+		"email": "persona3@email.com.br",
+		"github": "persona3.sobrenome",
+		"twitter": "@persona3.sobrenome",
+		"celular": "+5511999996666"
+	},
+	"profissao": "tester",
+	"tipoSangue": "AB",
+	"hobbie": ["futebol", "filmes", "desenhos animados", "golfe"]
+ }]
